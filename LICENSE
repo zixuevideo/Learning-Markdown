@@ -1,1 +1,22 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
+{
+    "name": "Creative Commons Attribution-NonCommercial-NoDerivs (CC-BY-NC-ND)",
+    "priority": 1,
+    "available": true,
+    "url": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "description": "The most restrictive creative commons license. This only allows people to download and share your work for no commercial gain and for no other purposes.",
+    "categories": [
+        "public",
+        "data",
+        "by",
+        "nc",
+        "nd"
+    ],
+    "labels": [
+        "public",
+        "cc",
+        "by",
+        "nc",
+        "nd"
+    ],
+    "key": "cc-by-nc-nd"
+}
